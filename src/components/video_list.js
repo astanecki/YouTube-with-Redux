@@ -1,3 +1,10 @@
-/**
- * Created by Adrian on 02.03.2017.
- */
+import React from 'react';
+
+const VideoList = () => {
+    return (
+        <ul className="col-md-4 list-group">
+        </ul>
+    );
+};
+
+export default VideoList;
